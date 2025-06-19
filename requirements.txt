@@ -4,3 +4,5 @@ numpy
 matplotlib
 openpyxl
 plotly.express
+seaborn
+base64
